@@ -1,6 +1,8 @@
 # DBMS-CIA-1
 
-ASHIN SHAJU-2311120
+Ashin Shaju-2311120
+
+Shaun John Ragesh-2311188
 
 Debashree Acharya - 2311131
 
